@@ -15,10 +15,6 @@ and processes data using the following steps:
 
 For further reading and documentation see the [FastQC help](http://www.bioinformatics.babraham.ac.uk/projects/fastqc/Help/).
 
-## bowtie2
-[bowtie2]
-
-
 **Output directory: `results/fastqc`**
 
 * `sample_fastqc.html`
@@ -37,3 +33,6 @@ For further reading and documentation see the [FastQC help](http://www.bioinform
   * Directory containing parsed statistics from the different tools used in the pipeline
 
 For more information about how to use MultiQC reports, see http://multiqc.info
+
+## bowtie2
+[bowtie2] http://bowtie-bio.sf.net/bowtie2 
