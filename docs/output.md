@@ -35,4 +35,4 @@ For further reading and documentation see the [FastQC help](http://www.bioinform
 For more information about how to use MultiQC reports, see http://multiqc.info
 
 ## bowtie2
-[bowtie2] http://bowtie-bio.sf.net/bowtie2 
+[bowtie2]http://bowtie-bio.sf.net/bowtie2 
