@@ -15,6 +15,10 @@ and processes data using the following steps:
 
 For further reading and documentation see the [FastQC help](http://www.bioinformatics.babraham.ac.uk/projects/fastqc/Help/).
 
+## bowtie2
+[bowtie2]
+
+
 **Output directory: `results/fastqc`**
 
 * `sample_fastqc.html`
