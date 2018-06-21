@@ -33,3 +33,6 @@ For further reading and documentation see the [FastQC help](http://www.bioinform
   * Directory containing parsed statistics from the different tools used in the pipeline
 
 For more information about how to use MultiQC reports, see http://multiqc.info
+
+## bowtie2
+ - bowtie2=2.3.0
